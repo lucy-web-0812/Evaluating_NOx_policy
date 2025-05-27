@@ -1,7 +1,7 @@
 # Evaluating NOx policy
  
 This github repo accompanies the anaylsis performed for the publication: 
-> Webster, L. et al. Evaluating the variability and consistency of NOx emission regulation between sectors. **Submitted for publication** 
+> Webster, L. et al. Evaluating the variability and consistency of NOx emission regulation between sectors. Environmental Science: Atmospheres, 2025, 5, 603 - 619. DOI: 10.1039/d4ea00149d  
 
 
 ## Overview 
