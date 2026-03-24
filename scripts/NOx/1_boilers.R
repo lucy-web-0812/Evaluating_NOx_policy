@@ -45,7 +45,7 @@ ggplot(boiler_summary, aes(x=mean_power, y = mean_nox, colour = fuel, shape = us
   scale_size(name = "Count") +
   scale_y_continuous(name =  expression(bold("NOx (mg kWh"^"-1"*")")), breaks = seq(0,120,20), limits = c(0,120), expand = c(0,0)) +
   scale_x_continuous(name = "Power (kW)", limits = c(0,NA), expand = c(0,0)) +
-  mypackage::theme_lucy() +
+  theme_lucy() +
   theme(legend.position = "right", 
         legend.title = element_text(size = 18), 
         legend.text = element_text(size = 14))
