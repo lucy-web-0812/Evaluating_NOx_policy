@@ -4,6 +4,8 @@ This github repo accompanies the anaylsis performed for the publication:
 > Webster, L. et al. Evaluating the variability and consistency of NOx emission regulation between sectors. Environmental Science: Atmospheres, 2025, 5, 603 - 619. DOI: 10.1039/d4ea00149d  
 
 
+[![DOI](https://zenodo.org/badge/950744828.svg)](https://doi.org/10.5281/zenodo.19207126)
+
 ## Overview 
 
 If you wish to run this code for yourself, it is best to set up an R project and save this repository in that directory. The data and scripts required will then be available for use. 
